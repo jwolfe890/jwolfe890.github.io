@@ -1,0 +1,21 @@
+# Site settings
+title: John Tech's Journey
+header-img: img/home-bg.png
+email: jwolfe890@gmail.com
+copyright_name: jwolfe890
+description: > # this means to ignore newlines until "baseurl:"
+  A document of my journey through the world of programming and technology
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  jwolfe890
+learn_profile: jwolfe890
+email_username: jwolfe890@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
