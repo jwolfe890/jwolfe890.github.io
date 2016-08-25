@@ -23,6 +23,7 @@ Bogil also recommended that job seekers seek out Facebook and Reddit groups to i
 Teddy Angelus, a former tech recruiter for 15 years, discussed the importance of blogging and how a bootcamp grad recently got hired at XOGroup because of her outstanding blog. Angelus discussed the importance of portfolio projects and said that some clever students have even made resume apps for their portfolio.
 
 In conjunction with another recent bootcamp grad who had been hired, Angelus also mentioned that oftentimes the human resource tech people aren’t the only ones checking your github profile, so a good trick is to include a readme with pictures in your portfolio projects so non-tech savvy HR people can understand what the project is about.
+
 The meetup also featured a presentation by Aditya Narayan, CEO at TurnToTech. He said usually the interview process involves a phone interview that’s followed by an-person interview, with the later being mainly to make sure your qualifications are what you claimed.
 
 ![](https://s15.postimg.org/eh85kadnb/IMG_0435.jpg)
