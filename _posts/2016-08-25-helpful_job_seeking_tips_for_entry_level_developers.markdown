@@ -5,7 +5,7 @@ date:   2016-08-25 18:41:43 -0400
 ---
 
 
-This evening I attended the Prepare for / Master the Tech Interview at TurnToTech in Manhattan, which provided important advice for entry level job seekers in the tech world. A frequent theme of the night was the need to have at least a basic level of computer science knowledge, but this was far from the only thing entry-level software engineering job seekers and[ Learn Co](https://flatironschool.com/campuses/online/) students could take away from the meetup.
+Last night I attended the Prepare for / Master the Tech Interview at TurnToTech in Manhattan, which provided important advice for entry level job seekers in the tech world. A frequent theme of the night was the need to have at least a basic level of computer science knowledge, but this was far from the only thing entry-level software engineering job seekers and[ Learn Co](https://flatironschool.com/campuses/online/) students could take away from the meetup.
 
 ![](https://s15.postimg.org/3t4elg3o7/IMG_0432.jpg)
 *Michael Batal, IBM*
