@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Helpful Job Seeking Tips for Entry Level Developers"
-date:   2016-08-25 22:41:43 +0000
+date:   2016-08-25 18:41:43 -0400
 ---
 
 
@@ -37,11 +37,14 @@ While he said that portfolio projects were important, he also cautioned that hir
 
 He concluded his discussion by stating that there are four main areas that software developer job-seekers should concentrate on:
 
-**1. Programming
-**Be an expert in at least one language (Ruby)
-**2. Computer Science
-**Once again…
-**3. Technology Essentials
-**If you’re applying at Amazon at least have some background knowledge of the technology this company implements
-**4. Domain Knowledge
-**Understand a framework thoroughly (such as Ruby on Rails or Node.js)
+**1. Programming**
+Be an expert in at least one language (Ruby)
+
+**2. Computer Science**
+Once again…
+
+**3. Technology Essentials**
+If you’re applying at Amazon at least have some background knowledge of the technology this company implements
+
+**4. Domain Knowledge**
+Understand a framework thoroughly (such as Ruby on Rails or Node.js)
