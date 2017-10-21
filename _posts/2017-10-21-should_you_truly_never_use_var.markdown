@@ -8,7 +8,7 @@ permalink:  should_you_truly_never_use_var
 
 While the 'Variables' readme in the new and excellent Learn V3 curriculum says use Var never, some controversy in the Javascript community has emerged over this classic variable declaration. So, is the V3 curriculum correct and we should forever delegate Var to the dustbin? This blog post gets to the bottom of the debate.
 
-First, the arguments against Var. 
+First, the arguments against var. 
 
 1. No error is thrown if you declare the same variable twice using var (conversely, both let and const will throw an error if a variable is declared twice)
 
