@@ -16,7 +16,7 @@ First, the arguments against Var.
 
 3. Another argument that has been made against the use of Var is that JS Linters are now pointing out their use as bad practice. I conducted a quick search on the Internet revealed that Jslint.com and Jshint.com, and did not raise an issues with the use of Var as a variable declaration. However, ESLint explicitly has a no-var rule aimed at discouraging the use of Var (https://eslint.org/docs/rules/no-var). 
 
-4 Most Javascript experts agree Var shouldn’t be used. Douglas Crockford, the man who popularized JSON, is against the use of var. He indicates that, “var might possibly still be useful in an extreme case like machine-generated code, but I'm stretching hard there.” Wes Bos also says he won’t use Var. 
+4. Most Javascript experts agree Var shouldn’t be used. Douglas Crockford, the man who popularized JSON, is against the use of var. He indicates that, “var might possibly still be useful in an extreme case like machine-generated code, but I'm stretching hard there.” Wes Bos also says he won’t use Var. 
 
 So, with the above reasons clearly and logically indicating why Var should never be used, why would any be temped to use it over const or let again? Kyle Simpson, author of You Don’t Know JS, and all-around Javascript guru, in this article -- https://davidwalsh.name/for-and-against-let – has argued for a possible case for Var. Simpson argues that: 
 
