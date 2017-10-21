@@ -6,7 +6,7 @@ permalink:  should_you_truly_never_use_var
 ---
 
 
-While the 'Variables' readme in the new and excellent Learn V3 curriculum says use Var never, some controversy in the Javascript community has emerged over this classic variable declaration. So, is the V3 curriculum correct and we should forever delegate Var to the dustbin? This blog post gets to the bottom of the debate.
+While the 'Variables' readme in the new and excellent Learn V3 curriculum says use var never, some controversy in the Javascript community has emerged over this classic variable declaration. So, is the V3 curriculum correct and we should forever delegate var to the dustbin? This blog post gets to the bottom of the debate.
 
 First, the arguments against var. 
 
