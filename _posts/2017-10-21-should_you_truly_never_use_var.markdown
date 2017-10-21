@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Should You Truly Never Use Var?"
-date:       2017-10-21 04:08:25 +0000
+date:       2017-10-21 00:08:26 -0400
 permalink:  should_you_truly_never_use_var
 ---
 
