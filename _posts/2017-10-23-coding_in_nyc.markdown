@@ -5,9 +5,9 @@ date:       2017-10-23 23:21:49 -0400
 permalink:  coding_in_nyc
 ---
 
-Most people move to New York with a plan, but I found one after getting here. I probably should have just moved to some cheap place to live while I was doing Learn, but I was addicted to the energy of the city. 
+Most people move to New York with a plan, but I found one after getting here. I probably should have just moved away to some cheap place to live while I was doing Learn, but I was addicted to the energy of the city. 
 
-I managed to keep myself afloat with a side job ghostwriting and editing blog posts, which paid very little, so I learned to live cheaply. Once I discovered the ins and outs of Brooklyn and Manhattan, I was able to survive on what it would cost me almost anywhere else in the United States. 
+I managed to keep myself afloat with random side jobs, which usually paid very little, so I learned to live cheaply. Once I discovered the ins and outs of Brooklyn and Manhattan, I was able to survive on what it would cost me almost anywhere else in the United States. 
 
 $1 pizza doesn’t taste much different than the expensive stuff. $3 goes a long way at a fruit stand in some parts of Harlem. Sashimi Express has some of the best $10 sushi in the country. And biking is free.  
 
