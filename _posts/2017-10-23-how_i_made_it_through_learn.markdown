@@ -10,10 +10,6 @@ As soon as I complete this blog post, I will have officially completed all my re
 
 However, throughout the two years I’ve been studying programming, I’ve learned some lessons that have made me more determined.  
 
-As someone new to programming, a large challenge for me was trusting the process and realizing that my hard work was worth it. After visiting the Flatiron School, it was impossible not to become caught up in the authenticity and energy of the people involved, so I dropped the self studying I’d been doing and immediately started the program. 
-
-I’d like to say I never worried again after that, but I found myself panicking every few weeks, sometimes to the point of wanting to give up everything. 
-
 Anytime I had to look at the solution branch, I was struck by imposter syndrome. But coding felt so natural to me, so I kept going.  
 
 Wired magazine or Tech Crunch would run stories about the death of coding, and I'd get worried. I’d turn to friends or if it was late at night Quora for re-assurance.  These stories won’t end. Talking about the oncoming A.I. apocalypse is too great for readership. 
