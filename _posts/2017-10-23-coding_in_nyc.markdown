@@ -13,7 +13,7 @@ I managed to keep myself afloat with a side job ghostwriting and editing blog po
 
 $1 pizza doesn’t taste much different than the expensive stuff. $3 goes a long way at a fruit stand in some parts of Harlem. Sashimi Express has some of the best $10 sushi in the country. And biking is free.  
 
-Coding in the tiny space I dad as an apartment drove me nuts. So I looked for a cheap space and was lucky to find an animation studio in Midtown called the Productive that had a deal that allowed me to come in after 6pm and on weekends for cheap. Schwarzman Library is beautiful and its free during the day.
+Coding in the tiny space I had as an apartment drove me nuts. So I looked for a cheap space and was lucky to find an animation studio in Midtown called the Productive that had a deal that allowed me to come in after 6pm and on weekends for cheap. Schwarzman Library is beautiful and its free during the day.
 
 After about halfway through the program I had some difficulties with my living situation and my landlord (who thought programming was foolish). I got lucky again and found a cheap spot in Washington Heights overnight. 
 
