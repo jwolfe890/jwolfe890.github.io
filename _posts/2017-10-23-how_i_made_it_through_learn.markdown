@@ -20,7 +20,7 @@ Wired magazine or Tech Crunch would run stories about the death of coding, and I
 
 I’d worry about stories about the dangers of bootcamps. These are another popular angle, particularly with the recent closing of Dev Bootcamp. There was also the endless amount of message boards of people claiming that coding bootcamps wouldn’t properly teach you how to code.
 
-However, many of the outcomes I’d see from my fellow classmates clearly didn’t reflect the doomsday scenarios presented. Eventually, I learned to just keep going. 
+However, many of the outcomes I’d see from my fellow classmates clearly didn’t reflect the scenarios presented. Eventually, I learned to just keep going. 
 
 Stories and people will doubt you, but they are only distractions. Surround yourself with those who will support your journey, and don’t let doomsday journalism sidetrack you. The people who succeed are the ones that block out the noise and just code.    
 
