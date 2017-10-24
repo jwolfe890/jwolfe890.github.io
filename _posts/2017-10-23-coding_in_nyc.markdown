@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Coding in NYC"
-date:       2017-10-24 03:21:48 +0000
+date:       2017-10-23 23:21:49 -0400
 permalink:  coding_in_nyc
 ---
 
-Most people move to New York with a plan, but I found one after getting here. I’d always thought coding was something that was something for math majors, but after completing a continuing ed course at the School of the Visual Arts and later finding Flatiron School, I knew I found my passion. 
+Most people move to New York with a plan, but I found one after getting here. I’d always thought coding was something for math majors, but after completing a continuing ed course at the School of the Visual Arts and later finding Flatiron School, I knew I found my passion. 
 
 I probably should have just moved to some cheap place to live while I was doing Learn, but I was addicted to the energy of the city. 
 
