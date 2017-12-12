@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Getting Started With CSS Grid"
-date:       2017-12-12 00:03:53 +0000
+date:       2017-12-11 19:03:54 -0500
 permalink:  getting_started_with_css_grid
 ---
 
