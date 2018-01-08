@@ -11,9 +11,11 @@ The spread operator is an awesome part of the ES6 arsenal that any Javascript de
 Basically, variable assignment in Javascript works like this:
 
 > const dog = { furry: true };
-const hairlessCat = dog;
+
+> const hairlessCat = dog;
 
 > hairlessCat.furry;
+
 > => true
 
 OK, so hairlessCat shouldn’t be furry.
