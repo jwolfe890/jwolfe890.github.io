@@ -22,7 +22,9 @@ hairlessCat.furry;
 
 OK, so hairlessCat shouldn’t be furry.
 
-`hairlessCat.furry = false`
+```
+hairlessCat.furry = false
+```
 
 BUT NOW…
 
