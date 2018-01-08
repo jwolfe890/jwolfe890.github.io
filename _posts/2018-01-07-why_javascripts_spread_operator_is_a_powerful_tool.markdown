@@ -45,7 +45,7 @@ const hairlessCat = {
 This way, we’re able to copy the properties of dog over to hairlessCat and change them and not have them impact the original dog object.
 
 ```
-const hairlessCat.furry = false;
+hairlessCat.furry = false;
 
 dog.furry;
 
