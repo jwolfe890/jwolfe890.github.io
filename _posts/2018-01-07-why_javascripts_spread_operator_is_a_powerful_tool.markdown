@@ -10,43 +10,53 @@ The spread operator is an awesome part of the ES6 arsenal that any Javascript de
 
 Basically, variable assignment in Javascript works like this:
 
-> const dog = { furry: true };
+```
+const dog = { furry: true };
 
-> const hairlessCat = dog;
+const hairlessCat = dog;
 
-> hairlessCat.furry;
+hairlessCat.furry;
 
-> => true
+=> true
+```
 
 OK, so hairlessCat shouldn’t be furry.
 
-> hairlessCat.furry = false
+`hairlessCat.furry = false`
 
 BUT NOW…
 
-> dog.furry
+```
+dog.furry
 
-> => false
-
-Thus, the spread operator to the rescue. Instead of assigning hairlessCat to dog like we did above, we instead use the spread operator to copy its properties like so:
-
-> dog.furry
-
-> => false
+=> false
+```
 
 Thus, the spread operator to the rescue. Instead of assigning hairlessCat to dog like we did above, we instead use the spread operator to copy its properties like so:
 
-> const hairlessCat = {
->    …dog
-> }
+```
+dog.furry
+
+=> false
+```
+
+Thus, the spread operator to the rescue. Instead of assigning hairlessCat to dog like we did above, we instead use the spread operator to copy its properties like so:
+
+```
+const hairlessCat = {
+    …dog
+ }
+```
 
 This way, we’re able to copy the properties of dog over to hairlessCat and change them and not have them impact the original dog object.
 
-> const hairlessCat.furry = false;
+```
+const hairlessCat.furry = false;
 
-> dog.furry;
+dog.furry;
 
-> => dog
+=> dog
+```
 
 This concept is critical in Redux because mutating the original function is not allowed.
 
