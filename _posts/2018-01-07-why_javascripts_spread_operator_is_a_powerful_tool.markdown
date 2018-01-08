@@ -6,7 +6,7 @@ permalink:  why_javascripts_spread_operator_is_a_powerful_tool
 ---
 
 
-The spread operator is an awesome part of the ES6 arsenal that any Javascript developer should become familiar with. This blog post will cover how you can use the spread operator in variable assignment (a technique critical in Redux). 
+The spread operator is an awesome part of the ES6 arsenal that any Javascript developer should know. This blog post will show how you can use the spread operator in variable assignment (a technique critical in Redux) and why it's important. 
 
 Basically, variable assignment in Javascript works like this:
 
