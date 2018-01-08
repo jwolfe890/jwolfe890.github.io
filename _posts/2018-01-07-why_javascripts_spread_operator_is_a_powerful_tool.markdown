@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Javascript's Spread Operator is a Powerful Tool "
-date:       2018-01-08 01:33:41 +0000
+date:       2018-01-07 20:33:42 -0500
 permalink:  why_javascripts_spread_operator_is_a_powerful_tool
 ---
 
@@ -11,8 +11,7 @@ The spread operator is an awesome part of the ES6 arsenal that any Javascript de
 Basically, variable assignment in Javascript works like this:
 
 > const dog = { furry: true };
-
-> const hairlessCat = dog;
+const hairlessCat = dog;
 
 > hairlessCat.furry;
 > => true
