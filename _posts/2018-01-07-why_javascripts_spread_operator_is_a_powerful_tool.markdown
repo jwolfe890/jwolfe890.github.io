@@ -37,14 +37,6 @@ dog.furry
 Thus, the spread operator to the rescue. Instead of assigning hairlessCat to dog like we did above, we instead use the spread operator to copy its properties like so:
 
 ```
-dog.furry
-
-=> false
-```
-
-Thus, the spread operator to the rescue. Instead of assigning hairlessCat to dog like we did above, we instead use the spread operator to copy its properties like so:
-
-```
 const hairlessCat = {
     …dog
  }
