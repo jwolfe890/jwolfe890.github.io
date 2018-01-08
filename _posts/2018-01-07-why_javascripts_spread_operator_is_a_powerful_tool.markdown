@@ -49,7 +49,7 @@ hairlessCat.furry = false;
 
 dog.furry;
 
-=> dog
+=> true
 ```
 
 This concept is critical in Redux because mutating the original variable or object is not allowed!
