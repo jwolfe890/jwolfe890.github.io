@@ -52,7 +52,7 @@ dog.furry;
 => dog
 ```
 
-This concept is critical in Redux because mutating the original function is not allowed.
+This concept is critical in Redux because mutating the original function is not allowed!
 
 
 
