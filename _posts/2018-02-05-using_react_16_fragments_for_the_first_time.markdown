@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using React 16 Fragments for the First Time"
-date:       2018-02-05 06:58:34 +0000
+date:       2018-02-05 01:58:35 -0500
 permalink:  using_react_16_fragments_for_the_first_time
 ---
 
@@ -47,6 +47,6 @@ While the Fragment is the recommended enclosing syntax for now, soon it will be 
 
 So if you’re like me, the first time you saw this you were asking yourself why do I care if it’s about the same amount of work to add a div as a fragment?
 
-Well, Dan Abramov himself chimed in on this question on this Stack Overflow post. Essentially, 1) fragments are slightly faster than divs and take up less memory; 2) fragments are more effective for some CSS operations such as Flexbox and CSS Grid, where divs have an impact on the layout; and 3), the DOM is less cluttered when using fragments.
+Well, Dan Abramov himself chimed in on this question on this Stack Overflow [post](http://https://stackoverflow.com/questions/47761894/why-are-fragments-in-react-16-better-than-container-divs). Essentially, 1) fragments are slightly faster than divs and take up less memory; 2) fragments are more effective for some CSS operations such as Flexbox and CSS Grid, where divs have an impact on the layout; and 3), the DOM is less cluttered when using fragments.
 
 I hope this post helped you update your React skills!
