@@ -24,7 +24,7 @@ In the component where you want to use fragments or an array, it’s necessary t
 import React, { Component, Fragment} from ‘react’;
 ```
 
-Finally, you just remove the wrapping div and replace it with the <Fragment> </Fragment>.
+Finally, you just remove the wrapping div and replace it with the enclosing ```<Fragment> </Fragment>``` : 
 
 ```
 class Answers extends Component {
